@@ -69,7 +69,7 @@ import portfolio6 from "@/assets/portfolio-6.jpg";
 import portfolio7 from "@/assets/portfolio-7.jpg";
 import portfolio8 from "@/assets/portfolio-8.jpg";
 
-const logo = logoAsset.url;
+const logo = "/favicon.png";
 
 const WA_NUMBER = "27793212561";
 const WA_MESSAGE = encodeURIComponent(
