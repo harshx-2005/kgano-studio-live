@@ -1514,7 +1514,7 @@ function Contact() {
                 href={FB_LINK}
                 icon={Mail}
                 label="Facebook"
-                value="Abednigo Khwere Mokalapa"
+                value="Mokalapa Kamogelo Kgano"
                 external
                 brand="facebook"
               />
